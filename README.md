@@ -1,1 +1,1 @@
-just a bunch of powershell scripts ive created over the years. Mainly relating to AD automation.
+just a bunch of powershell scripts ive created over the years. Mainly relating to AD automation. Feel free to use any of these, please read the comments on the scripts to update them to work for your environment.
